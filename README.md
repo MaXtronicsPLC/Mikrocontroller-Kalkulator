@@ -35,7 +35,7 @@ Mikrocontroller-Kalkulator/
       ├── PC-Kalkulator/
       │    ├── pc_kalkulator.cpp       (PC-Programm in C++)
       │    ├── ergebnisse.txt          (wird automatisch erstellt)
-      │    └── pc-kalkulator           (ausführbare Datei nach dem Kompilieren)
+      │    └── pc_kalkulator           (ausführbare Datei nach dem Kompilieren)
       └── Arduino_Kalkulator/
            └── Arduino_Kalkulator.ino  (Arduino-Sketch)
 ```
