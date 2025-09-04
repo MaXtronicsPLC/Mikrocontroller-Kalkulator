@@ -78,7 +78,7 @@ Mikrocontroller-Kalkulator/
 
 3. Starten:
    ```bash
-   ./pc-kalkulator
+   ./pc_kalkulator
    ```
 
 4. Bedienung:  
