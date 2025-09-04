@@ -32,10 +32,10 @@ Mikrocontroller-Kalkulator/
  ├── README.md                         (Projektbeschreibung, Hinweise, Installation)
  ├── LICENSE                           (Lizenzdatei, MIT License)
  └── Projekt_Cpp/
-      ├── PC_Kalkulator/
+      ├── PC-Kalkulator/
       │    ├── pc_kalkulator.cpp       (PC-Programm in C++)
       │    ├── ergebnisse.txt          (wird automatisch erstellt)
-      │    └── pc_kalkulator           (ausführbare Datei nach dem Kompilieren)
+      │    └── pc-kalkulator           (ausführbare Datei nach dem Kompilieren)
       └── Arduino_Kalkulator/
            └── Arduino_Kalkulator.ino  (Arduino-Sketch)
 ```
@@ -68,7 +68,7 @@ Mikrocontroller-Kalkulator/
 ### 2) PC-Programm (macOS/Linux)
 1. Terminal öffnen und in den Unterordner wechseln:
    ```bash
-   cd ~/Desktop/Mikrocontroller-Kalkulator-main/Projekt_C++/PC_Kalkulator
+   cd ~/Desktop/Mikrocontroller-Kalkulator-main/Projekt_C++/PC-Kalkulator
    ```
 2. Kompilieren:
    ```bash
@@ -78,7 +78,7 @@ Mikrocontroller-Kalkulator/
 
 3. Starten:
    ```bash
-   ./pc_kalkulator
+   ./pc-kalkulator
    ```
 
 4. Bedienung:  
